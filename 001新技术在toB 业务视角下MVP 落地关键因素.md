@@ -1,3 +1,5 @@
+<img width="813" alt="Clipboard_Screenshot_1740498512" src="https://github.com/user-attachments/assets/3af33b68-37ec-48bf-bac0-24f5293e69c7" />
+
 ### **模块一：企业降本提效 = 先进生产力 ✖️ 合适的业务场景**
 
 - **企业降本提效**：这是企业在数字化转型过程中追求的核心目标。降本提效不仅是成本控制的要求，也是提高生产效率的关键。
